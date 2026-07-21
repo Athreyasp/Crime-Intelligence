@@ -1,0 +1,48 @@
+{
+  "defaults": {
+    "project": 2,
+    "env": 1
+  },
+  "actives": {
+    "project": 2,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "50989000000013024",
+      "name": "Project-Rainfall",
+      "domain": {
+        "id": "50043944261",
+        "name": "project-rainfall-60078060929.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60078060929",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "id": "50989000000020364",
+      "name": "KSP",
+      "domain": {
+        "id": "50044227194",
+        "name": "ksp-60078060929.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60078060929",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

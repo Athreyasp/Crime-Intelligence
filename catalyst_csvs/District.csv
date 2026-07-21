@@ -1,0 +1,32 @@
+DistrictID,DistrictName,Population,UrbanizationPct,LiteracyPct
+1,Bengaluru City,12300000,96,88
+2,Bengaluru Rural,990000,42,78
+3,Mysuru,3000000,58,79
+4,Mangaluru,2100000,47,88
+5,Hubballi-Dharwad,1850000,56,80
+6,Belagavi,4780000,30,73
+7,Kalaburagi,2560000,32,65
+8,Ballari,2450000,38,68
+9,Vijayapura,2170000,22,67
+10,Tumakuru,2680000,27,76
+11,Shivamogga,1750000,35,80
+12,Udupi,1180000,30,87
+13,Davanagere,1950000,33,76
+14,Raichur,1930000,24,60
+15,Hassan,1780000,21,77
+16,Mandya,1810000,17,71
+17,Chikkamagaluru,1140000,22,80
+18,Kodagu,550000,15,82
+19,Bidar,1700000,25,71
+20,Kolar,1540000,30,74
+21,Bagalkote,1890000,31,69
+22,Chamarajanagara,1020000,17,61
+23,Chikkaballapura,1250000,22,69
+24,Chitradurga,1660000,20,73
+25,Gadag,1060000,36,75
+26,Haveri,1600000,22,77
+27,Koppal,1390000,17,67
+28,Ramanagara,1080000,25,69
+29,Uttara Kannada,1440000,29,84
+30,Yadgir,1170000,19,51
+31,Vijayanagara,1400000,32,68
